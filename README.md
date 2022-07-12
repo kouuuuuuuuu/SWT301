@@ -31,6 +31,6 @@
 - [Slides](https://docs.google.com/presentation/d/1utZmG6XDHDd9qozdQaeydPCOgvEenLWvY77Zuo6GDhc/edit#slide=id.gf658401715_0_29)
 
 # Puppeteer
-![screenshot](https://i.ibb.co/D9QL9sf/292584802-433939391928795-7518604000497501940-n.png)
+![screenshot](https://ibb.co/k4XM4k2)
 ![screenshot](https://i.ibb.co/stCsq91/291978174-590557019177723-7270785239006059574-n.png)
 ![screenshot](https://i.ibb.co/2NvzWyW/290617695-416250293777809-8338954563304693727-n.png)
