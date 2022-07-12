@@ -1,0 +1,11 @@
+{
+  "name": "checkdate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "checkDate.test.js",
+  "scripts": {
+    "test": "jest –verbose true"
+  },
+  "author": "",
+  "license": "ISC"
+}
