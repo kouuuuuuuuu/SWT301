@@ -33,4 +33,3 @@
 # Puppeteer
 ![screenshot](https://i.ibb.co/2NvzWyW/290617695-416250293777809-8338954563304693727-n.png)
 ![screenshot](https://i.ibb.co/stCsq91/291978174-590557019177723-7270785239006059574-n.png)
-![screenshot](https://i.ibb.co/2NvzWyW/290617695-416250293777809-8338954563304693727-n.png)
